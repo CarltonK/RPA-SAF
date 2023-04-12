@@ -1,7 +1,12 @@
-body {
+/* body {
     background-color: red;
 }
 
 p {
    color: blue; 
+} */
+
+.styler {
+    font-size: 20px;
+    color: red;
 }
